@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olusola Caleb @Caleb40
 - 👀 I’m interested in programming, math and science 
-- 🌱 I’m currently learning Artificial intelligence/ Machine learning 
+- 🌱 I’m currently learning Machine learning and Front-end Web Dev (React)
 - 💞️ I’m looking to collaborate on AI based projects such as chatbots, image classifiers, e.t.c
 - 📫 How to reach me - IG: @itz_calebking, Twitter: @caleb_mnb
 
